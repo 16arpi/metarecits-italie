@@ -16,4 +16,3 @@ def esteri(job, response):
     links = response.soup().scrape(".card-wrapper .big-heading a", "href")
 
     return links, next_link
-""
