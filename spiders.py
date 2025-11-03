@@ -16,3 +16,10 @@ def esteri(job, response):
     links = response.soup().scrape(".card-wrapper .big-heading a", "href")
 
     return links, next_link
+
+def fratelli(job, response):
+    next_link = response.soup().scrape_one("a.page-numbers.next", "href")
+
+    links = response.soup().scrape(".elementor-heading-title.elementor-size-default a", "href")
+
+    return links, []
