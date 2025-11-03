@@ -21,5 +21,6 @@ def fratelli(job, response):
     next_link = response.soup().scrape_one("a.page-numbers.next", "href")
 
     links = response.soup().scrape(".elementor-heading-title.elementor-size-default a", "href")
+    print(len(links))
 
-    return links, []
+    return links, None
