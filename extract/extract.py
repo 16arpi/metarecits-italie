@@ -23,6 +23,24 @@ class Resultat(BaseModel):
 
 class Reasoning:
 
+
+    def _to_json(self, obj: Resultat):
+        actions = []
+        for action in obj.actions:
+            actions.append({
+                "description": action.description,
+                "initiateurs": action.initiateurs,
+                "receveurs": action.receveurs,
+                "justifications": action.justifications,
+                "moyens": action.moyens,
+                "opposants": action.opposants,
+            })
+
+        return {
+            "raisonnement": obj.raisonnement,
+            "actions": actions
+        }
+
     def make_user_thinking_prompt(self, text, reason):
         template = jinja2.Template(reason)
         return template.render({
@@ -61,7 +79,7 @@ class Reasoning:
             text_format=Resultat
         )
 
-        return res.output_parsed
+        return self._to_json(res.output_parsed)
 
     def __init__(self, text, system, reason, extract, model):
         self.text = text
@@ -84,4 +102,4 @@ prompt_extract = Path(sys.argv[4]).read_text()
 instance = Reasoning(text, prompt_system, prompt_reason, prompt_extract, None)
 result = instance.execute()
 
-pprint(result, indent=True)
+sys.stdout.write(json.dumps(result, indent=True))
