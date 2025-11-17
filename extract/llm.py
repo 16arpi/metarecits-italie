@@ -1,6 +1,8 @@
 import os, sys
 from openai import OpenAI
 
+
+
 filename = sys.argv[1]
 
 client = OpenAI(

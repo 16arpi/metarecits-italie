@@ -1,0 +1,12 @@
+À présent, extrait sous format JSON la personne qui énonce le discours du texte sous la forme :
+{
+    "raisonnement": "<inscrire ici ton raisonnement>",
+    "actions": [
+        "description": "<description de l'action>",
+        "initiateurs": ["...", "..."],
+        "receveurs": ["...", "..."],
+        "justifications": ["...", "..."],
+        "moyens": ["...", "..."],
+        "opposants": ["...", "..."],
+    ]
+}

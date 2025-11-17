@@ -1,0 +1,10 @@
+À partir du texte suivant, identifie les éléments des différentes actions/sujets dont parle le texte :
+* qui ou quoi porte l'action
+* en quoi consiste l'action ou le sujets
+* à qui ou quoi s'adresse l'action
+* pour quelle raison l'action est menée
+* par quels moyens les initiateurs compte porter l'action
+* qui s'oppose à ce que cette action ait lieu
+
+Texte en question :
+{{ texte }}
