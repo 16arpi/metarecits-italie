@@ -1,0 +1,84 @@
+{
+ "raisonnement": "Le texte pr\u00e9sente plusieurs actions et sujets li\u00e9s \u00e0 la situation politique entre l'Italie, l'Union Europ\u00e9enne, et la Chine, en particulier concernant Hong Kong. Les actions sont analys\u00e9es en fonction des acteurs impliqu\u00e9s, des objectifs, des moyens, des opposants, et de la temporalit\u00e9, en se basant sur les d\u00e9clarations et les intentions exprim\u00e9es dans le texte.",
+ "actions": [
+  {
+   "description": "Manifestations en Italie",
+   "initiateurs": [
+    "Les Italiens"
+   ],
+   "receveurs": [
+    "R\u00e9gime chinois \u00e0 Hong Kong"
+   ],
+   "justifications": [
+    "Exprimer la libert\u00e9 et la d\u00e9mocratie en Italie"
+   ],
+   "moyens": [
+    "Organiser des initiatives de protestation"
+   ],
+   "opposants": [
+    "L'ambassade chinoise"
+   ],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "Manifestation de solidarit\u00e9 avec Hong Kong",
+   "initiateurs": [
+    "La Lega",
+    "Autres groupes italiens"
+   ],
+   "receveurs": [
+    "Citoyens de Hong Kong"
+   ],
+   "justifications": [
+    "Protester contre le r\u00e9gime chinois"
+   ],
+   "moyens": [
+    "Organiser une manifestation"
+   ],
+   "opposants": [
+    "Les 'mandarins' communistes"
+   ],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "Sanctions \u00e9conomiques de l'UE contre la Chine",
+   "initiateurs": [
+    "L'Union Europ\u00e9enne"
+   ],
+   "receveurs": [
+    "La Chine"
+   ],
+   "justifications": [
+    "R\u00e9ponse \u00e0 la r\u00e9pression en cours \u00e0 Hong Kong"
+   ],
+   "moyens": [
+    "Sanctions \u00e9conomiques",
+    "Expulsion du WTO"
+   ],
+   "opposants": [
+    "Implicite, probablement la Chine"
+   ],
+   "temporalite": "Futur"
+  },
+  {
+   "description": "Motion pour l'engagement du gouvernement italien",
+   "initiateurs": [
+    "Fabio Rampelli",
+    "Fratelli d'Italia"
+   ],
+   "receveurs": [
+    "Gouvernement italien"
+   ],
+   "justifications": [
+    "R\u00e9ponse \u00e0 la r\u00e9pression en cours \u00e0 Hong Kong"
+   ],
+   "moyens": [
+    "Pr\u00e9senter une motion"
+   ],
+   "opposants": [
+    "Non sp\u00e9cifi\u00e9"
+   ],
+   "temporalite": "Futur"
+  }
+ ]
+}

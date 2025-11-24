@@ -1,0 +1,73 @@
+{
+ "raisonnement": "Le texte critique l'absence de changement en Europe malgr\u00e9 les promesses politiques. Giorgia Meloni d\u00e9nonce la continuit\u00e9 des politiques sous l'influence du PPE et du PSE, et critique les partis italiens pour leurs promesses non tenues. Les actions discut\u00e9es incluent l'\u00e9lection de Schulz et Juncker, et les promesses de changement des partis italiens.",
+ "actions": [
+  {
+   "description": "Critique de l'absence de changement en Europe malgr\u00e9 les promesses de r\u00e9volution politique.",
+   "initiateurs": [
+    "Giorgia Meloni"
+   ],
+   "receveurs": [
+    "PD",
+    "FI",
+    "NCD",
+    "Institutions europ\u00e9ennes"
+   ],
+   "justifications": [
+    "D\u00e9noncer le manque de changement et la continuit\u00e9 des politiques europ\u00e9ennes sous l'influence du PPE et du PSE."
+   ],
+   "moyens": [
+    "D\u00e9clarations publiques",
+    "Critiques envers les dirigeants politiques"
+   ],
+   "opposants": [
+    "PD",
+    "FI",
+    "NCD",
+    "Institutions europ\u00e9ennes"
+   ]
+  },
+  {
+   "description": "Confirmation de Martin Schulz comme pr\u00e9sident du Parlement europ\u00e9en et \u00e9lection de Jean-Claude Juncker \u00e0 la pr\u00e9sidence de la Commission europ\u00e9enne.",
+   "initiateurs": [
+    "Institutions europ\u00e9ennes"
+   ],
+   "receveurs": [
+    "Citoyens europ\u00e9ens",
+    "Partis politiques europ\u00e9ens"
+   ],
+   "justifications": [
+    "Maintenir la continuit\u00e9 politique et l'influence allemande au sein des institutions europ\u00e9ennes."
+   ],
+   "moyens": [
+    "\u00c9lections",
+    "Nominations au sein des institutions europ\u00e9ennes"
+   ],
+   "opposants": [
+    "Giorgia Meloni",
+    "Critiques de l'absence de changement"
+   ]
+  },
+  {
+   "description": "Promesses de changement radical dans les relations entre l'Italie et l'Union europ\u00e9enne.",
+   "initiateurs": [
+    "Renzi",
+    "Alfano",
+    "Berlusconi"
+   ],
+   "receveurs": [
+    "\u00c9lecteurs italiens"
+   ],
+   "justifications": [
+    "Obtenir le soutien des \u00e9lecteurs italiens lors des \u00e9lections."
+   ],
+   "moyens": [
+    "Campagnes \u00e9lectorales",
+    "D\u00e9clarations publiques"
+   ],
+   "opposants": [
+    "Giorgia Meloni",
+    "Critiques du manque de r\u00e9sultats concrets"
+   ]
+  }
+ ]
+}

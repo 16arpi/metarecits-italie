@@ -1,0 +1,37 @@
+{
+ "raisonnement": "Le texte parle de l'adoption d'une loi en Toscane pour prot\u00e9ger les riders, des jeunes travailleurs sans protection. Il mentionne les initiateurs de l'action, les raisons de cette loi, et les moyens utilis\u00e9s pour la mettre en place. Il n'y a pas d'opposition mentionn\u00e9e dans le texte.",
+ "actions": [
+  {
+   "description": "Adoption d'une loi sur les riders",
+   "initiateurs": [
+    "Conseil r\u00e9gional de Toscane"
+   ],
+   "receveurs": [
+    "Jeunes travailleurs, sp\u00e9cifiquement les riders"
+   ],
+   "justifications": [
+    "Donner des garanties et des protections \u00e0 des travailleurs \u00e0 cottimo sans tutelle et s\u00e9curit\u00e9"
+   ],
+   "moyens": [
+    "Adoption d'une loi propos\u00e9e par le Pr\u00e9sident Mazzeo"
+   ],
+   "opposants": []
+  },
+  {
+   "description": "D\u00e9claration de Diego Petrucci",
+   "initiateurs": [
+    "Diego Petrucci, Conseiller r\u00e9gional de Fratelli d\u2019Italia"
+   ],
+   "receveurs": [
+    "Public et parties int\u00e9ress\u00e9es par la situation des riders"
+   ],
+   "justifications": [
+    "Souligner l'importance de la loi comme une avanc\u00e9e de civilisation"
+   ],
+   "moyens": [
+    "D\u00e9clarations publiques et soutien \u00e0 la proposition de loi"
+   ],
+   "opposants": []
+  }
+ ]
+}

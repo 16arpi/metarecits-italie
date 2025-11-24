@@ -1,0 +1,81 @@
+{
+ "raisonnement": "Le texte pr\u00e9sente plusieurs actions et sujets li\u00e9s \u00e0 la gestion des immigrants en Italie, en particulier autour de la question du blocage des ports et de la r\u00e9partition des immigrants par la Cei. Fabio Rampelli critique ces approches et propose des alternatives bas\u00e9es sur le rejet des immigrants sans permis. Les \u00e9l\u00e9ments cl\u00e9s incluent les initiateurs, les destinataires, les raisons, les moyens, et les opposants \u00e0 chaque action.",
+ "actions": [
+  {
+   "description": "Blocco dei porti",
+   "initiateurs": [
+    "Fabio Rampelli"
+   ],
+   "receveurs": [
+    "Immigrants ill\u00e9gaux"
+   ],
+   "justifications": [
+    "G\u00e9rer le flux d'immigrants sans permis",
+    "\u00c9viter que l'Italie ne devienne un refuge"
+   ],
+   "moyens": [
+    "Patrouillage des fronti\u00e8res maritimes",
+    "Accords avec le gouvernement de Tripoli"
+   ],
+   "opposants": [
+    "Cei"
+   ]
+  },
+  {
+   "description": "Coinvolgimento della Cei",
+   "initiateurs": [
+    "Cei"
+   ],
+   "receveurs": [
+    "Immigrants en Italie"
+   ],
+   "justifications": [
+    "G\u00e9rer la r\u00e9partition des immigrants"
+   ],
+   "moyens": [
+    "D\u00e9cision des lieux d'accueil"
+   ],
+   "opposants": [
+    "Fabio Rampelli"
+   ]
+  },
+  {
+   "description": "Trasferimento di 100 irregolari dalla Sicilia a Rocca di Papa",
+   "initiateurs": [
+    "Autorit\u00e9s responsables du transfert"
+   ],
+   "receveurs": [
+    "Immigrants irr\u00e9guliers"
+   ],
+   "justifications": [
+    "G\u00e9rer la r\u00e9partition des immigrants"
+   ],
+   "moyens": [
+    "Transfert physique vers Rocca di Papa"
+   ],
+   "opposants": [
+    "Fabio Rampelli"
+   ]
+  },
+  {
+   "description": "Respingimento",
+   "initiateurs": [
+    "Fabio Rampelli"
+   ],
+   "receveurs": [
+    "Immigrants sans permis"
+   ],
+   "justifications": [
+    "\u00c9viter que l'Italie ne devienne un refuge"
+   ],
+   "moyens": [
+    "Patrouillage des fronti\u00e8res",
+    "Rejet naval",
+    "D\u00e9couragement de d\u00e9part"
+   ],
+   "opposants": [
+    "Soutiens de la r\u00e9partition par la Cei"
+   ]
+  }
+ ]
+}

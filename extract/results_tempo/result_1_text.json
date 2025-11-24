@@ -1,0 +1,72 @@
+{
+ "raisonnement": "Le texte discute principalement de l'obstruction parlementaire men\u00e9e par les partis d'opposition en Italie, en particulier la gauche et le Mouvement 5 \u00e9toiles, contre une r\u00e9forme constitutionnelle propos\u00e9e par Fratelli d\u2019Italia. Cette r\u00e9forme vise \u00e0 permettre aux citoyens de voter directement pour le pr\u00e9sident du Conseil. Le texte critique l'opposition pour son \u00e9loignement des priorit\u00e9s des Italiens et souligne que le jugement final sur ces priorit\u00e9s reviendra aux citoyens.",
+ "actions": [
+  {
+   "description": "Ostruzionismo della sinistra",
+   "initiateurs": [
+    "La sinistra",
+    "I cinque stelle"
+   ],
+   "receveurs": [
+    "R\u00e9formes constitutionnelles"
+   ],
+   "justifications": [
+    "Montrer leur d\u00e9saccord avec les r\u00e9formes",
+    "D\u00e9fendre des institutions comme celle des s\u00e9nateurs \u00e0 vie"
+   ],
+   "moyens": [
+    "Plus de trois mille amendements",
+    "Interventions r\u00e9p\u00e9titives",
+    "Simulations de dissensions"
+   ],
+   "opposants": [
+    "Fratelli d\u2019Italia",
+    "Partisans des r\u00e9formes"
+   ],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "Riforma costituzionale",
+   "initiateurs": [
+    "Fratelli d\u2019Italia",
+    "Partisans de la r\u00e9forme"
+   ],
+   "receveurs": [
+    "Institutions",
+    "Citoyens italiens"
+   ],
+   "justifications": [
+    "Rapprocher les institutions des citoyens",
+    "\u00c9viter que les gouvernements soient d\u00e9cid\u00e9s sans l'expression directe du vote populaire"
+   ],
+   "moyens": [
+    "Proposer des r\u00e9formes constitutionnelles"
+   ],
+   "opposants": [
+    "Partis d'opposition",
+    "La gauche",
+    "Mouvement 5 \u00e9toiles"
+   ],
+   "temporalite": "Pr\u00e9sent et Futur"
+  },
+  {
+   "description": "Giudizio dei cittadini italiani",
+   "initiateurs": [
+    "Citoyens italiens"
+   ],
+   "receveurs": [
+    "Priorit\u00e9s des oppositions"
+   ],
+   "justifications": [
+    "\u00c9valuer si les priorit\u00e9s des oppositions sont en accord avec les besoins et priorit\u00e9s des Italiens"
+   ],
+   "moyens": [
+    "Jugement des citoyens"
+   ],
+   "opposants": [
+    "Non sp\u00e9cifi\u00e9"
+   ],
+   "temporalite": "Futur"
+  }
+ ]
+}

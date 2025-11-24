@@ -1,0 +1,90 @@
+{
+ "raisonnement": "Le texte pr\u00e9sente plusieurs actions et sujets li\u00e9s \u00e0 la mobilisation politique en Sicile, avec un focus sur le soutien \u00e0 Nello Musumeci et l'opposition \u00e0 la loi sur le ius soli. Les temporalit\u00e9s varient entre le pr\u00e9sent et le futur, avec des actions en cours et des projets \u00e0 venir.",
+ "actions": [
+  {
+   "description": "Mobilisation du centre-droit pour soutenir Nello Musumeci",
+   "initiateurs": [
+    "Le centre-droit"
+   ],
+   "receveurs": [
+    "\u00c9lectorat sicilien"
+   ],
+   "justifications": [
+    "Soutenir la candidature de Musumeci et montrer l'unit\u00e9 du centre-droit"
+   ],
+   "moyens": [
+    "Manifestations dans les principales places, notamment \u00e0 Catania"
+   ],
+   "opposants": [],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "Opposition \u00e0 la loi sur le ius soli",
+   "initiateurs": [
+    "Fratelli d\u2019Italia"
+   ],
+   "receveurs": [
+    "Opinion publique et \u00e9lecteurs"
+   ],
+   "justifications": [
+    "S'opposer \u00e0 l'octroi automatique de la citoyennet\u00e9 italienne aux immigr\u00e9s"
+   ],
+   "moyens": [
+    "Manifestations dans les places principales"
+   ],
+   "opposants": [],
+   "temporalite": "Futur"
+  },
+  {
+   "description": "Rencontre entre Meloni, Berlusconi et Salvini",
+   "initiateurs": [
+    "Giorgia Meloni",
+    "Silvio Berlusconi",
+    "Matteo Salvini"
+   ],
+   "receveurs": [
+    "\u00c9lectorat et coalition de centre-droit"
+   ],
+   "justifications": [
+    "Donner un signal clair de compacit\u00e9 de la coalition"
+   ],
+   "moyens": [
+    "Rencontre en marge des manifestations ou en unifiant les manifestations"
+   ],
+   "opposants": [],
+   "temporalite": "Futur"
+  },
+  {
+   "description": "Victoire potentielle du centre-droit en Sicile",
+   "initiateurs": [
+    "Le centre-droit"
+   ],
+   "receveurs": [
+    "R\u00e9gion Sicilienne"
+   ],
+   "justifications": [
+    "Donner \u00e0 la r\u00e9gion un gouvernement honn\u00eate et capable"
+   ],
+   "moyens": [
+    "Mobilisation et unit\u00e9 de la coalition"
+   ],
+   "opposants": [],
+   "temporalite": "Futur"
+  },
+  {
+   "description": "Construction d'une proposition de gouvernement national",
+   "initiateurs": [
+    "Le centre-droit"
+   ],
+   "receveurs": [
+    "Nation italienne"
+   ],
+   "justifications": [
+    "Pr\u00e9parer un programme de gouvernement national"
+   ],
+   "moyens": [],
+   "opposants": [],
+   "temporalite": "Futur"
+  }
+ ]
+}

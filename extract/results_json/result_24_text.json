@@ -1,0 +1,63 @@
+{
+ "raisonnement": "Le texte pr\u00e9sente plusieurs actions et sujets discut\u00e9s par Raffaele Fitto, copr\u00e9sident du groupe Ecr-FdI au Parlement europ\u00e9en, concernant la politique italienne et europ\u00e9enne. Les actions principales incluent la d\u00e9finition d'un programme politique cr\u00e9dible, le soutien aux r\u00e9solutions contre la Russie, et la gestion des ressources europ\u00e9ennes. Les raisons de ces actions sont li\u00e9es \u00e0 la n\u00e9cessit\u00e9 de r\u00e9soudre des probl\u00e8mes concrets en Italie, comme la gestion des finances publiques et l'utilisation des fonds europ\u00e9ens. Les moyens incluent le vote en faveur des r\u00e9solutions et la concentration sur des faits concrets. Les oppositions ne sont pas clairement sp\u00e9cifi\u00e9es, mais les pol\u00e9miques \u00e9lectorales sont mentionn\u00e9es comme des obstacles.",
+ "actions": [
+  {
+   "description": "D\u00e9finir un programme cr\u00e9dible et r\u00e9alisable",
+   "initiateurs": [
+    "Raffaele Fitto"
+   ],
+   "receveurs": [
+    "Fratelli d\u2019Italia",
+    "centre-droit"
+   ],
+   "justifications": [
+    "Aborder les probl\u00e8mes concrets de l'Italie",
+    "Gestion des finances publiques et des ressources europ\u00e9ennes"
+   ],
+   "moyens": [
+    "Concentration sur des faits concrets",
+    "\u00c9viter les pol\u00e9miques inutiles"
+   ],
+   "opposants": [
+    "Pol\u00e9miques \u00e9lectorales inutiles"
+   ]
+  },
+  {
+   "description": "Soutien aux r\u00e9solutions de condamnation de la Russie",
+   "initiateurs": [
+    "D\u00e9l\u00e9gations des partis de Fratelli d\u2019Italia et du centre-droit \u00e0 Bruxelles"
+   ],
+   "receveurs": [
+    "Russie"
+   ],
+   "justifications": [
+    "Affirmer la position atlantiste",
+    "Solidarit\u00e9 avec l'Ukraine"
+   ],
+   "moyens": [
+    "Vote en faveur des r\u00e9solutions \u00e0 Bruxelles et en Italie"
+   ],
+   "opposants": []
+  },
+  {
+   "description": "Gestion des ressources europ\u00e9ennes",
+   "initiateurs": [
+    "Raffaele Fitto",
+    "Fratelli d\u2019Italia"
+   ],
+   "receveurs": [
+    "Italie"
+   ],
+   "justifications": [
+    "R\u00e9soudre les probl\u00e8mes de sous-utilisation des fonds europ\u00e9ens"
+   ],
+   "moyens": [
+    "Concentration sur la reddition de comptes",
+    "Utilisation efficace des fonds"
+   ],
+   "opposants": [
+    "Pol\u00e9miques \u00e9lectorales"
+   ]
+  }
+ ]
+}

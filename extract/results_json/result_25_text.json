@@ -1,0 +1,44 @@
+{
+ "raisonnement": "Le texte pr\u00e9sente deux actions principales : les manifestations en Italie contre le r\u00e9gime chinois \u00e0 Hong Kong et la proposition de sanctions \u00e9conomiques contre la Chine par l'UE. Les initiateurs sont principalement les Italiens et Fabio Rampelli, qui expriment leur solidarit\u00e9 avec Hong Kong et leur d\u00e9saccord avec la r\u00e9pression chinoise. Les moyens incluent l'organisation de manifestations et la promotion de sanctions \u00e9conomiques. L'opposition vient de l'ambassade chinoise et implicitement de la Chine elle-m\u00eame.",
+ "actions": [
+  {
+   "description": "Manifestations en Italie",
+   "initiateurs": [
+    "Les Italiens",
+    "Fabio Rampelli"
+   ],
+   "receveurs": [
+    "R\u00e9gime chinois \u00e0 Hong Kong"
+   ],
+   "justifications": [
+    "Libert\u00e9 et d\u00e9mocratie en Italie",
+    "Solidarit\u00e9 avec les citoyens de Hong Kong"
+   ],
+   "moyens": [
+    "Organisation d'initiatives de protestation"
+   ],
+   "opposants": [
+    "Ambassade chinoise"
+   ]
+  },
+  {
+   "description": "Sanctions \u00e9conomiques et expulsion de la Chine du WTO",
+   "initiateurs": [
+    "Fabio Rampelli"
+   ],
+   "receveurs": [
+    "Union Europ\u00e9enne"
+   ],
+   "justifications": [
+    "R\u00e9pression \u00e0 Hong Kong",
+    "Affront au monde libre"
+   ],
+   "moyens": [
+    "Demande d'engagement du gouvernement italien pour promouvoir ces mesures au niveau de l'UE"
+   ],
+   "opposants": [
+    "Chine (implicitement)"
+   ]
+  }
+ ]
+}
