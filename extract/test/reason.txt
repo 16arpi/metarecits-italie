@@ -5,17 +5,6 @@
 * pour quelle raison l'action est menée
 * par quels moyens les initiateurs compte porter l'action
 * qui s'oppose à ce que cette action ait lieu
-* dans quelle temporalité s’inscrit principalement cette action :
-  - passé : actions déjà réalisées ou événements déjà survenus
-  - présent : situations actuelles, mesures déjà en cours
-  - futur : promesses, projets, engagements pour l’avenir
-  - mixte : si le passage combine explicitement plusieurs temporalités
-  - indéterminé : si le texte ne permet pas de trancher clairement
-
-Appuie-toi sur :
-* les temps verbaux du texte (en italien : passato, presente, futuro, condizionale…)
-* les marqueurs temporels explicites (oggi, ieri, domani, nel 2027, entro il 2030, ecc.)
-* les indications de type "ha fatto", "sta facendo", "farà", "si impegna a", etc.
 
 Texte en question :
 {{ texte }}
