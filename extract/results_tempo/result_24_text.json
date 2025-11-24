@@ -1,0 +1,88 @@
+{
+ "raisonnement": "Le texte pr\u00e9sente plusieurs actions et sujets discut\u00e9s par Raffaele Fitto, notamment la d\u00e9finition d'un programme politique, le vote des r\u00e9solutions \u00e0 Bruxelles, la gestion des ressources europ\u00e9ennes, et l'augmentation de la d\u00e9pense publique. Les temporalit\u00e9s varient entre pass\u00e9, pr\u00e9sent et futur, selon les actions d\u00e9crites.",
+ "actions": [
+  {
+   "description": "D\u00e9finir un programme cr\u00e9dible et r\u00e9alisable",
+   "initiateurs": [
+    "Raffaele Fitto"
+   ],
+   "receveurs": [
+    "Fratelli d\u2019Italia",
+    "centre-droit"
+   ],
+   "justifications": [
+    "Se concentrer sur des questions concr\u00e8tes et importantes pour le pays"
+   ],
+   "moyens": [
+    "Se concentrer sur des faits concrets",
+    "\u00c9viter les pol\u00e9miques inutiles"
+   ],
+   "opposants": [
+    "Non sp\u00e9cifi\u00e9"
+   ],
+   "temporalite": "Futur"
+  },
+  {
+   "description": "Voter \u00e0 Bruxelles et en Italie",
+   "initiateurs": [
+    "D\u00e9l\u00e9gations des partis du centre-droit",
+    "Fratelli d\u2019Italia"
+   ],
+   "receveurs": [
+    "Russie",
+    "Ukraine"
+   ],
+   "justifications": [
+    "Montrer une position atlantiste claire",
+    "Soutenir l'Ukraine"
+   ],
+   "moyens": [
+    "Vote des r\u00e9solutions",
+    "Soutien aux sanctions"
+   ],
+   "opposants": [
+    "Non sp\u00e9cifi\u00e9"
+   ],
+   "temporalite": "Pass\u00e9"
+  },
+  {
+   "description": "Gestion des ressources europ\u00e9ennes",
+   "initiateurs": [
+    "Autorit\u00e9s italiennes"
+   ],
+   "receveurs": [
+    "Italie"
+   ],
+   "justifications": [
+    "Am\u00e9liorer la gestion des ressources",
+    "R\u00e9soudre les probl\u00e8mes financiers"
+   ],
+   "moyens": [
+    "Rendre compte des fonds de mani\u00e8re plus efficace"
+   ],
+   "opposants": [
+    "Non sp\u00e9cifi\u00e9"
+   ],
+   "temporalite": "Mixte"
+  },
+  {
+   "description": "Augmentation de la d\u00e9pense publique et du d\u00e9ficit",
+   "initiateurs": [
+    "Autorit\u00e9s italiennes"
+   ],
+   "receveurs": [
+    "Italie"
+   ],
+   "justifications": [
+    "Pr\u00e9sent\u00e9 comme un probl\u00e8me pr\u00e9occupant"
+   ],
+   "moyens": [
+    "Non sp\u00e9cifi\u00e9"
+   ],
+   "opposants": [
+    "Non sp\u00e9cifi\u00e9"
+   ],
+   "temporalite": "Pr\u00e9sent"
+  }
+ ]
+}

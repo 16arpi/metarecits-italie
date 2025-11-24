@@ -1,0 +1,84 @@
+{
+ "raisonnement": "Le texte aborde plusieurs actions et sujets li\u00e9s \u00e0 la c\u00e9l\u00e9bration du tricolore italien, la comm\u00e9moration des victimes de la strage d'Acca Larentia, et un appel aux anciens membres des Brigades Rouges pour r\u00e9v\u00e9ler la v\u00e9rit\u00e9 sur des assassinats pass\u00e9s. Chaque action est analys\u00e9e en termes d'initiateurs, de destinataires, de raisons, de moyens et d'opposants.",
+ "actions": [
+  {
+   "description": "C\u00e9l\u00e9bration de la Giornata nazionale della bandiera",
+   "initiateurs": [
+    "Federico Mollicone",
+    "Pr\u00e9sident Meloni"
+   ],
+   "receveurs": [
+    "Italiens",
+    "Utilisateurs des r\u00e9seaux sociaux"
+   ],
+   "justifications": [
+    "Contrer l'id\u00e9e que c\u00e9l\u00e9brer le tricolore est conservateur",
+    "Raviver la m\u00e9moire nationale"
+   ],
+   "moyens": [
+    "Campagne web",
+    "Hashtag #orgoglioitaliano"
+   ],
+   "opposants": [
+    "Ceux qui consid\u00e8rent la c\u00e9l\u00e9bration du tricolore comme conservatrice"
+   ]
+  },
+  {
+   "description": "Appel aux brigadistes pour r\u00e9v\u00e9ler la v\u00e9rit\u00e9 sur la mitraillette utilis\u00e9e dans des assassinats",
+   "initiateurs": [
+    "Federico Mollicone"
+   ],
+   "receveurs": [
+    "Anciens membres des Brigades Rouges"
+   ],
+   "justifications": [
+    "D\u00e9couvrir la v\u00e9rit\u00e9 sur les assassinats",
+    "Construire une m\u00e9moire commune de pacification"
+   ],
+   "moyens": [
+    "Appel public et m\u00e9diatique"
+   ],
+   "opposants": [
+    "Incapacit\u00e9 ou complicit\u00e9 de la magistrature italienne"
+   ]
+  },
+  {
+   "description": "Comm\u00e9moration des victimes de la strage d'Acca Larentia",
+   "initiateurs": [
+    "Federico Mollicone"
+   ],
+   "receveurs": [
+    "M\u00e9moire collective italienne"
+   ],
+   "justifications": [
+    "Honorer ceux qui ont d\u00e9fendu le tricolore contre les extr\u00e9mistes"
+   ],
+   "moyens": [
+    "D\u00e9clarations publiques",
+    "Comm\u00e9morations"
+   ],
+   "opposants": [
+    "Extr\u00e9mistes qui ont commis les actes de violence"
+   ]
+  },
+  {
+   "description": "Critique de l'interpr\u00e9tation de la c\u00e9l\u00e9bration du tricolore",
+   "initiateurs": [
+    "Federico Mollicone"
+   ],
+   "receveurs": [
+    "Ceux qui partagent l'interpr\u00e9tation conservatrice"
+   ],
+   "justifications": [
+    "D\u00e9fendre la c\u00e9l\u00e9bration du tricolore comme un acte patriotique"
+   ],
+   "moyens": [
+    "D\u00e9clarations publiques",
+    "Campagnes de sensibilisation"
+   ],
+   "opposants": [
+    "Ceux qui consid\u00e8rent la c\u00e9l\u00e9bration du tricolore comme conservatrice"
+   ]
+  }
+ ]
+}

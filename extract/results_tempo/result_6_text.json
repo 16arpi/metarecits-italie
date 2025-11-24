@@ -1,0 +1,100 @@
+{
+ "raisonnement": "Le texte aborde plusieurs actions et sujets li\u00e9s \u00e0 la m\u00e9moire des victimes des foibe, la vandalisation du monument de Basovizza, et les tensions autour du Giorno del Ricordo. Les actions sont principalement situ\u00e9es dans le pr\u00e9sent, avec des r\u00e9f\u00e9rences \u00e0 des \u00e9v\u00e9nements pass\u00e9s pour contextualiser les tensions actuelles.",
+ "actions": [
+  {
+   "description": "Vandalisation du monument de Basovizza",
+   "initiateurs": [
+    "Des vandales non sp\u00e9cifi\u00e9s"
+   ],
+   "receveurs": [
+    "Le monument de Basovizza"
+   ],
+   "justifications": [
+    "Pi\u00e9tiner la m\u00e9moire des Italiens tu\u00e9s par les communistes titistes"
+   ],
+   "moyens": [
+    "Non sp\u00e9cifi\u00e9"
+   ],
+   "opposants": [
+    "Fratelli d\u2019Italia, Lucio Malan, Roberto Menia"
+   ],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "Engagement de Fratelli d\u2019Italia pour la m\u00e9moire des victimes",
+   "initiateurs": [
+    "Fratelli d\u2019Italia, Lucio Malan, Roberto Menia"
+   ],
+   "receveurs": [
+    "Victimes des foibe, m\u00e9moire collective"
+   ],
+   "justifications": [
+    "Contrer ceux qui d\u00e9fendent encore les assassins, honorer la m\u00e9moire des victimes"
+   ],
+   "moyens": [
+    "\u00catre en premi\u00e8re ligne dans le r\u00e9cit historique"
+   ],
+   "opposants": [
+    "Ceux qui nient ou minimisent les \u00e9v\u00e9nements historiques"
+   ],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "Climat de tension autour du Giorno del Ricordo",
+   "initiateurs": [
+    "Ceux qui propagent des d\u00e9clarations n\u00e9gationnistes et des actes de vandalisme"
+   ],
+   "receveurs": [
+    "Giorno del Ricordo, m\u00e9moire des martyrs"
+   ],
+   "justifications": [
+    "Nier ou minimiser l'importance historique des \u00e9v\u00e9nements comm\u00e9mor\u00e9s"
+   ],
+   "moyens": [
+    "D\u00e9clarations n\u00e9gationnistes, moqueries, vandalisme"
+   ],
+   "opposants": [
+    "Fratelli d\u2019Italia"
+   ],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "C\u00e9l\u00e9bration de Gorizia-Nova Gorica comme capitale europ\u00e9enne de la culture",
+   "initiateurs": [
+    "Pr\u00e9sidents de la R\u00e9publique italienne et slov\u00e8ne"
+   ],
+   "receveurs": [
+    "Communaut\u00e9 internationale, citoyens des deux pays"
+   ],
+   "justifications": [
+    "Promouvoir la culture et la coop\u00e9ration transfrontali\u00e8re"
+   ],
+   "moyens": [
+    "C\u00e9l\u00e9brations officielles"
+   ],
+   "opposants": [
+    "Non sp\u00e9cifi\u00e9"
+   ],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "R\u00e9flexion sur l'histoire et la m\u00e9moire",
+   "initiateurs": [
+    "Roberto Menia"
+   ],
+   "receveurs": [
+    "Soci\u00e9t\u00e9 en g\u00e9n\u00e9ral"
+   ],
+   "justifications": [
+    "Condamner l'inculture, l'incivilit\u00e9 et la r\u00e9pugnance des actes de vandalisme"
+   ],
+   "moyens": [
+    "D\u00e9clarations publiques, r\u00e9flexions historiques"
+   ],
+   "opposants": [
+    "Ceux qui nient ou minimisent l'importance historique des \u00e9v\u00e9nements"
+   ],
+   "temporalite": "Pr\u00e9sent"
+  }
+ ]
+}

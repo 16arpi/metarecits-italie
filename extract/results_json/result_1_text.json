@@ -1,0 +1,69 @@
+{
+ "raisonnement": "Le texte d\u00e9crit une situation politique en Italie o\u00f9 l'opposition, en particulier la sinistra e i cinque stelle, utilise des tactiques d'obstruction pour s'opposer \u00e0 une r\u00e9forme constitutionnelle. Cette r\u00e9forme vise \u00e0 permettre aux citoyens de voter directement pour le pr\u00e9sident du Conseil, ce qui est per\u00e7u comme un moyen de rapprocher les institutions des citoyens. Le s\u00e9nateur Andrea De Priamo de Fratelli d\u2019Italia critique cette obstruction, affirmant qu'elle montre une d\u00e9connexion entre l'opposition et les priorit\u00e9s des Italiens.",
+ "actions": [
+  {
+   "description": "Ostruzionismo della sinistra",
+   "initiateurs": [
+    "La sinistra",
+    "I cinque stelle"
+   ],
+   "receveurs": [
+    "Riforme costituzionali proposte"
+   ],
+   "justifications": [
+    "Per difendere istituti come quello dei senatori a vita",
+    "Opporsi alla riforma costituzionale"
+   ],
+   "moyens": [
+    "Pi\u00f9 di tremila emendamenti",
+    "Interventi ripetitivi",
+    "Interventi fintamente in dissenso"
+   ],
+   "opposants": [
+    "Fratelli d\u2019Italia",
+    "Senatore Andrea De Priamo"
+   ]
+  },
+  {
+   "description": "Riforma costituzionale",
+   "initiateurs": [
+    "Governo o maggioranza (implicito)"
+   ],
+   "receveurs": [
+    "Cittadini italiani"
+   ],
+   "justifications": [
+    "Per evitare governi decisi nel palazzo lontani dall\u2019espressione del voto"
+   ],
+   "moyens": [
+    "Attraverso una riforma costituzionale"
+   ],
+   "opposants": [
+    "La sinistra",
+    "I cinque stelle"
+   ]
+  },
+  {
+   "description": "Priorit\u00e0 delle opposizioni",
+   "initiateurs": [
+    "Le opposizioni",
+    "La sinistra",
+    "I cinque stelle"
+   ],
+   "receveurs": [
+    "Riforme proposte dal governo o dalla maggioranza"
+   ],
+   "justifications": [
+    "Mantenere lo status quo (implicito)"
+   ],
+   "moyens": [
+    "Ostruzionismo",
+    "Dissenso"
+   ],
+   "opposants": [
+    "Fratelli d\u2019Italia",
+    "Senatore Andrea De Priamo"
+   ]
+  }
+ ]
+}

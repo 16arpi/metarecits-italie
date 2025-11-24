@@ -8,5 +8,6 @@
         "justifications": ["...", "..."],
         "moyens": ["...", "..."],
         "opposants": ["...", "..."],
+        "temporalite": "<une des valeurs suivantes : 'passé', 'présent', 'futur', 'mixte', 'indéterminé'>"
     ]
 }

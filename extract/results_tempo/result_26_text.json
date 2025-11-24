@@ -1,0 +1,119 @@
+{
+ "raisonnement": "Le texte pr\u00e9sente plusieurs actions et sujets li\u00e9s \u00e0 la gestion des immigr\u00e9s en Italie, avec des critiques et des propositions alternatives. Les actions sont analys\u00e9es en fonction des initiateurs, des destinataires, des raisons, des moyens, des opposants et de la temporalit\u00e9.",
+ "actions": [
+  {
+   "description": "Critique du blocage des ports comme mesure inefficace.",
+   "initiateurs": [
+    "Fabio Rampelli"
+   ],
+   "receveurs": [
+    "Autorit\u00e9s italiennes et europ\u00e9ennes"
+   ],
+   "justifications": [
+    "Souligner l'inefficacit\u00e9 de la mesure et proposer des alternatives"
+   ],
+   "moyens": [
+    "Communication publique et propositions alternatives"
+   ],
+   "opposants": [
+    "Non sp\u00e9cifi\u00e9"
+   ],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "D\u00e9cision de la Cei sur l'accueil et la r\u00e9partition des immigr\u00e9s.",
+   "initiateurs": [
+    "Conf\u00e9rence \u00e9piscopale italienne (Cei)"
+   ],
+   "receveurs": [
+    "Immigr\u00e9s et communaut\u00e9s locales"
+   ],
+   "justifications": [
+    "G\u00e9rer l'accueil des immigr\u00e9s"
+   ],
+   "moyens": [
+    "D\u00e9cision autonome"
+   ],
+   "opposants": [
+    "Fabio Rampelli et ceux qui partagent son point de vue"
+   ],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "Transfert de 100 immigr\u00e9s irr\u00e9guliers vers Rocca di Papa.",
+   "initiateurs": [
+    "Autorit\u00e9s responsables du transfert"
+   ],
+   "receveurs": [
+    "Immigr\u00e9s irr\u00e9guliers"
+   ],
+   "justifications": [
+    "G\u00e9rer la r\u00e9partition des immigr\u00e9s"
+   ],
+   "moyens": [
+    "Transfert physique des personnes"
+   ],
+   "opposants": [
+    "Fabio Rampelli et ceux qui partagent son point de vue"
+   ],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "Comparaison des m\u00e9thodes de gestion des immigr\u00e9s (Alfano-Minniti vs Cei).",
+   "initiateurs": [
+    "Gouvernements pr\u00e9c\u00e9dents et Cei"
+   ],
+   "receveurs": [
+    "Communaut\u00e9s locales et immigr\u00e9s"
+   ],
+   "justifications": [
+    "Critiquer la m\u00e9thode actuelle et proposer une alternative"
+   ],
+   "moyens": [
+    "Information et implication des communes"
+   ],
+   "opposants": [
+    "Fabio Rampelli et ceux qui partagent son point de vue"
+   ],
+   "temporalite": "Mixte"
+  },
+  {
+   "description": "Proposition de rejet des immigr\u00e9s sans permis.",
+   "initiateurs": [
+    "Fabio Rampelli et ceux qui partagent son point de vue"
+   ],
+   "receveurs": [
+    "Autorit\u00e9s italiennes et europ\u00e9ennes"
+   ],
+   "justifications": [
+    "G\u00e9rer le flux d'immigr\u00e9s de mani\u00e8re plus stricte"
+   ],
+   "moyens": [
+    "Rejet et contr\u00f4le des fronti\u00e8res"
+   ],
+   "opposants": [
+    "Non sp\u00e9cifi\u00e9"
+   ],
+   "temporalite": "Futur"
+  },
+  {
+   "description": "Blocus naval mis en place par Prodi et Napolitano en 1997.",
+   "initiateurs": [
+    "Prodi et Napolitano"
+   ],
+   "receveurs": [
+    "Immigr\u00e9s albanophones"
+   ],
+   "justifications": [
+    "Emp\u00eacher le transfert massif d'immigr\u00e9s"
+   ],
+   "moyens": [
+    "Blocus naval"
+   ],
+   "opposants": [
+    "Non sp\u00e9cifi\u00e9"
+   ],
+   "temporalite": "Pass\u00e9"
+  }
+ ]
+}

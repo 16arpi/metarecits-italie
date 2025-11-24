@@ -1,0 +1,55 @@
+{
+ "raisonnement": "Le texte d\u00e9crit plusieurs actions et sujets li\u00e9s \u00e0 la campagne \u00e9lectorale en Sicile, notamment le soutien \u00e0 Nello Musumeci, l'opposition \u00e0 la loi sur le ius soli, et la rencontre entre leaders politiques pour montrer l'unit\u00e9 de la coalition.",
+ "actions": [
+  {
+   "description": "Mobilisation du centre-droit pour soutenir Nello Musumeci",
+   "initiateurs": [
+    "Le centre-droit"
+   ],
+   "receveurs": [
+    "\u00c9lecteurs de la R\u00e9gion Sicilienne"
+   ],
+   "justifications": [
+    "Soutenir la candidature de Musumeci et montrer l'unit\u00e9 du centre-droit"
+   ],
+   "moyens": [
+    "Manifestations dans les principales places, notamment \u00e0 Catania"
+   ],
+   "opposants": []
+  },
+  {
+   "description": "Opposition \u00e0 la loi sur le ius soli",
+   "initiateurs": [
+    "Fratelli d\u2019Italia"
+   ],
+   "receveurs": [
+    "\u00c9lecteurs et public en g\u00e9n\u00e9ral"
+   ],
+   "justifications": [
+    "Exprimer l'opposition \u00e0 la loi sur le ius soli"
+   ],
+   "moyens": [
+    "Manifestations dans les principales places"
+   ],
+   "opposants": []
+  },
+  {
+   "description": "Rencontre entre Meloni, Berlusconi et Salvini",
+   "initiateurs": [
+    "Giorgia Meloni",
+    "Silvio Berlusconi",
+    "Matteo Salvini"
+   ],
+   "receveurs": [
+    "Coalition du centre-droit et \u00e9lecteurs"
+   ],
+   "justifications": [
+    "Donner un signal clair de compacit\u00e9 de la coalition"
+   ],
+   "moyens": [
+    "Rencontre \u00e0 Catania, \u00e9ventuellement en unifiant les manifestations ou en se voyant \u00e0 leur marge"
+   ],
+   "opposants": []
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "raisonnement": "Le texte discute de plusieurs actions li\u00e9es \u00e0 la Politique Agricole Commune (PAC) et au soutien du secteur agricole italien, notamment en r\u00e9ponse \u00e0 la crise COVID-19. Les actions sont port\u00e9es par le Parlement europ\u00e9en et Nicola Procaccini, avec des mesures visant \u00e0 \u00e9viter des coupes budg\u00e9taires et \u00e0 soutenir les agriculteurs. Les temporalit\u00e9s varient entre le pr\u00e9sent et le futur, avec des mesures d\u00e9j\u00e0 en cours et des projets \u00e0 n\u00e9gocier.",
+ "actions": [
+  {
+   "description": "Prorogation de la r\u00e9forme de la PAC jusqu'en 2022.",
+   "initiateurs": [
+    "Parlement europ\u00e9en",
+    "Nicola Procaccini"
+   ],
+   "receveurs": [
+    "Secteur agricole italien",
+    "Agriculteurs",
+    "Producteurs"
+   ],
+   "justifications": [
+    "\u00c9viter les coupes budg\u00e9taires",
+    "Soutenir le secteur agricole en difficult\u00e9 \u00e0 cause de la crise COVID-19"
+   ],
+   "moyens": [
+    "N\u00e9gociations avec le Conseil et la Commission UE"
+   ],
+   "opposants": [
+    "Commission europ\u00e9enne"
+   ],
+   "temporalite": "Futur"
+  },
+  {
+   "description": "Prorogation des droits d'implantation pour le secteur vitivinicole.",
+   "initiateurs": [
+    "Nicola Procaccini"
+   ],
+   "receveurs": [
+    "Entreprises vitivinicoles"
+   ],
+   "justifications": [
+    "Renforcer et rationaliser le potentiel viticole"
+   ],
+   "moyens": [
+    "Adoption de l'amendement propos\u00e9"
+   ],
+   "opposants": [],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "Cr\u00e9ation d'un fonds anticrise de 400 millions d'euros.",
+   "initiateurs": [
+    "Parlement europ\u00e9en",
+    "Nicola Procaccini"
+   ],
+   "receveurs": [
+    "Agriculteurs en difficult\u00e9"
+   ],
+   "justifications": [
+    "Soutien financier aux agriculteurs touch\u00e9s par la crise"
+   ],
+   "moyens": [
+    "Mise en place du fonds anticrise"
+   ],
+   "opposants": [],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "Facilitation de l'acc\u00e8s au fonds contre les pertes de revenu.",
+   "initiateurs": [
+    "Parlement europ\u00e9en",
+    "Nicola Procaccini"
+   ],
+   "receveurs": [
+    "Agriculteurs"
+   ],
+   "justifications": [
+    "Offrir un soutien financier et un r\u00e9pit au secteur agricole"
+   ],
+   "moyens": [
+    "Mise en place de mesures facilitant l'acc\u00e8s au fonds"
+   ],
+   "opposants": [],
+   "temporalite": "Pr\u00e9sent"
+  }
+ ]
+}

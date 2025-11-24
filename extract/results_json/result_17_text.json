@@ -1,0 +1,62 @@
+{
+ "raisonnement": "Le texte d\u00e9crit plusieurs actions et mesures prises pour soutenir le secteur agricole italien face \u00e0 la crise du COVID-19. Ces actions incluent la prorogation de la PAC, le soutien \u00e0 la viticulture, et la cr\u00e9ation d'un fonds anticrise. Les initiateurs principaux sont le Parlement europ\u00e9en et Nicola Procaccini, qui cherchent \u00e0 \u00e9viter les coupes budg\u00e9taires et \u00e0 offrir un soutien financier aux agriculteurs. Les opposants potentiels incluent la Commission europ\u00e9enne, qui avait pr\u00e9vu des r\u00e9ductions budg\u00e9taires.",
+ "actions": [
+  {
+   "description": "Prorogation de la PAC (Politique Agricole Commune)",
+   "initiateurs": [
+    "Parlement europ\u00e9en",
+    "Nicola Procaccini"
+   ],
+   "receveurs": [
+    "Secteur agricole italien",
+    "Agriculteurs",
+    "Producteurs"
+   ],
+   "justifications": [
+    "\u00c9viter les coupes budg\u00e9taires annonc\u00e9es",
+    "Soutenir le secteur agricole pendant la crise COVID-19"
+   ],
+   "moyens": [
+    "N\u00e9gociations avec le Conseil et la Commission UE"
+   ],
+   "opposants": [
+    "Commission europ\u00e9enne"
+   ]
+  },
+  {
+   "description": "Soutien \u00e0 la viticulture",
+   "initiateurs": [
+    "Nicola Procaccini"
+   ],
+   "receveurs": [
+    "Entreprises vitivinicoles"
+   ],
+   "justifications": [
+    "Sauvegarder les cultures",
+    "Renforcer et rationaliser le potentiel viticole"
+   ],
+   "moyens": [
+    "Adoption d'un amendement"
+   ],
+   "opposants": []
+  },
+  {
+   "description": "Cr\u00e9ation d'un fonds anticrise",
+   "initiateurs": [
+    "Parlement europ\u00e9en",
+    "Nicola Procaccini"
+   ],
+   "receveurs": [
+    "Agriculteurs en difficult\u00e9"
+   ],
+   "justifications": [
+    "Offrir un soutien financier aux agriculteurs touch\u00e9s par la crise"
+   ],
+   "moyens": [
+    "Mise en place du fonds",
+    "Facilitation de l'acc\u00e8s au fonds"
+   ],
+   "opposants": []
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "raisonnement": "Le texte traite de plusieurs actions et sujets li\u00e9s \u00e0 la m\u00e9moire des victimes des foibe et des \u00e9v\u00e9nements historiques associ\u00e9s. Il aborde la vandalisation d'un monument, les efforts pour maintenir la m\u00e9moire historique, et une c\u00e9l\u00e9bration culturelle, tout en soulignant les tensions historiques et politiques sous-jacentes.",
+ "actions": [
+  {
+   "description": "Vandalisation du monument de Basovizza",
+   "initiateurs": [
+    "Les vandales non identifi\u00e9s"
+   ],
+   "receveurs": [
+    "Le monument national de Basovizza"
+   ],
+   "justifications": [
+    "D\u00e9shonorer la m\u00e9moire des victimes italiennes tu\u00e9es par les communistes titini"
+   ],
+   "moyens": [
+    "Souiller le monument avec des graffitis obsc\u00e8nes, y compris le slogan 'Trst je na\u0161'"
+   ],
+   "opposants": [
+    "Fratelli d\u2019Italia, Lucio Malan, Roberto Menia"
+   ]
+  },
+  {
+   "description": "Maintien de la m\u00e9moire des victimes des foibe",
+   "initiateurs": [
+    "Le s\u00e9nateur Roberto Menia",
+    "Fratelli d\u2019Italia"
+   ],
+   "receveurs": [
+    "La m\u00e9moire collective et le r\u00e9cit historique"
+   ],
+   "justifications": [
+    "Rendre justice aux victimes et contrer ceux qui d\u00e9fendent encore les assassins"
+   ],
+   "moyens": [
+    "D\u00e9clarations publiques et actions politiques"
+   ],
+   "opposants": [
+    "Ceux qui nient ou minimisent les \u00e9v\u00e9nements historiques, y compris les auteurs des actes de vandalisme"
+   ]
+  },
+  {
+   "description": "C\u00e9l\u00e9bration de Gorizia-Nova Gorica comme capitale europ\u00e9enne de la culture",
+   "initiateurs": [
+    "Les Pr\u00e9sidents de la R\u00e9publique italienne et slov\u00e8ne"
+   ],
+   "receveurs": [
+    "Citoyens et communaut\u00e9 culturelle europ\u00e9enne"
+   ],
+   "justifications": [
+    "Promouvoir la culture et la coop\u00e9ration transfrontali\u00e8re"
+   ],
+   "moyens": [
+    "C\u00e9r\u00e9monies officielles et \u00e9v\u00e9nements culturels"
+   ],
+   "opposants": [
+    "Aucun opposant direct mentionn\u00e9, mais l'\u00e9v\u00e9nement est mis en contraste avec l'acte de vandalisme \u00e0 Basovizza"
+   ]
+  }
+ ]
+}

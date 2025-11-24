@@ -1,0 +1,89 @@
+{
+ "raisonnement": "Le texte pr\u00e9sente plusieurs actions et sujets, chacun avec ses propres initiateurs, destinataires, raisons, moyens, opposants potentiels, et temporalit\u00e9s. Les actions sont principalement ax\u00e9es sur la c\u00e9l\u00e9bration du tricolore, l'hommage aux d\u00e9fenseurs de ce symbole, et l'appel \u00e0 la v\u00e9rit\u00e9 sur des \u00e9v\u00e9nements pass\u00e9s. Les temporalit\u00e9s varient entre le pr\u00e9sent pour les actions en cours et le pass\u00e9 pour les \u00e9v\u00e9nements historiques.",
+ "actions": [
+  {
+   "description": "C\u00e9l\u00e9bration de la Giorn\u00e9e nationale de la bandiera",
+   "initiateurs": [
+    "Federico Mollicone",
+    "Pr\u00e9sident Meloni"
+   ],
+   "receveurs": [
+    "Italiens",
+    "utilisateurs des r\u00e9seaux sociaux"
+   ],
+   "justifications": [
+    "Contrer l'id\u00e9e que c\u00e9l\u00e9brer le tricolore est conservateur",
+    "Raviver la m\u00e9moire nationale"
+   ],
+   "moyens": [
+    "Campagne web",
+    "Hashtag #orgoglioitaliano"
+   ],
+   "opposants": [],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "Hommage aux d\u00e9fenseurs du tricolore",
+   "initiateurs": [
+    "Federico Mollicone"
+   ],
+   "receveurs": [
+    "M\u00e9moire collective italienne"
+   ],
+   "justifications": [
+    "Honorer ceux qui ont sacrifi\u00e9 leur vie pour le tricolore"
+   ],
+   "moyens": [],
+   "opposants": [],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "Appel \u00e0 la v\u00e9rit\u00e9 sur la strage d'Acca Larentia",
+   "initiateurs": [
+    "Federico Mollicone"
+   ],
+   "receveurs": [
+    "Brigadistes",
+    "repentis"
+   ],
+   "justifications": [
+    "Conna\u00eetre la v\u00e9rit\u00e9",
+    "Construire une m\u00e9moire commune de pacification"
+   ],
+   "moyens": [
+    "Appel public"
+   ],
+   "opposants": [
+    "Incapacit\u00e9 ou complicit\u00e9 de la magistrature italienne"
+   ],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "Utilisation de la mitraillette dans plusieurs assassinats",
+   "initiateurs": [
+    "Groupe local",
+    "Brigades Rouges (BR)"
+   ],
+   "receveurs": [
+    "Victimes des assassinats"
+   ],
+   "justifications": [],
+   "moyens": [],
+   "opposants": [],
+   "temporalite": "Pass\u00e9"
+  },
+  {
+   "description": "Vente de l'arme par le chanteur Fontana",
+   "initiateurs": [
+    "Chanteur Fontana"
+   ],
+   "receveurs": [
+    "Policier du commissariat Tuscolano de Rome"
+   ],
+   "justifications": [],
+   "moyens": [],
+   "opposants": [],
+   "temporalite": "Pass\u00e9"
+  }
+ ]
+}

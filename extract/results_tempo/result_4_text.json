@@ -1,0 +1,89 @@
+{
+ "raisonnement": "Le texte critique les promesses non tenues de changement en Europe par certains partis politiques italiens et europ\u00e9ens. Il met en lumi\u00e8re la continuit\u00e9 politique malgr\u00e9 les promesses de r\u00e9volution, en se basant sur des \u00e9v\u00e9nements r\u00e9cents comme les \u00e9lections de Schulz et Juncker. Les critiques se concentrent sur l'absence de changement r\u00e9el et l'irrilevanza de l'Italie dans les d\u00e9cisions europ\u00e9ennes, avec une temporalit\u00e9 principalement pr\u00e9sente, mais aussi des r\u00e9f\u00e9rences au futur non r\u00e9alis\u00e9.",
+ "actions": [
+  {
+   "description": "Promesse de r\u00e9volution en Europe",
+   "initiateurs": [
+    "PD",
+    "FI",
+    "NCD"
+   ],
+   "receveurs": [
+    "\u00c9lecteurs italiens",
+    "Public europ\u00e9en"
+   ],
+   "justifications": [
+    "Obtenir le soutien et le consensus des \u00e9lecteurs italiens"
+   ],
+   "moyens": [
+    "Promesses \u00e9lectorales de changement"
+   ],
+   "opposants": [
+    "Giorgia Meloni"
+   ],
+   "temporalite": "Futur"
+  },
+  {
+   "description": "\u00c9lection de Martin Schulz et Jean-Claude Juncker",
+   "initiateurs": [
+    "Institutions europ\u00e9ennes",
+    "PPE",
+    "PSE"
+   ],
+   "receveurs": [
+    "Institutions europ\u00e9ennes",
+    "\u00c9lecteurs europ\u00e9ens"
+   ],
+   "justifications": [
+    "Maintenir une continuit\u00e9 politique et une influence allemande"
+   ],
+   "moyens": [
+    "Alliances politiques entre le PPE et le PSE"
+   ],
+   "opposants": [
+    "Giorgia Meloni"
+   ],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "Critique de l'irrilevanza de l'Italie",
+   "initiateurs": [
+    "Giorgia Meloni"
+   ],
+   "receveurs": [
+    "Dirigeants italiens (Renzi, Alfano, Berlusconi)"
+   ],
+   "justifications": [
+    "D\u00e9noncer le manque de poids de l'Italie en Europe"
+   ],
+   "moyens": [
+    "D\u00e9clarations publiques et critiques dans les m\u00e9dias"
+   ],
+   "opposants": [
+    "Dirigeants italiens critiqu\u00e9s"
+   ],
+   "temporalite": "Pr\u00e9sent"
+  },
+  {
+   "description": "Proclamations de Renzi et interview de Schauble",
+   "initiateurs": [
+    "Matteo Renzi",
+    "Ministre de l'\u00c9conomie allemand Schauble"
+   ],
+   "receveurs": [
+    "\u00c9lecteurs italiens et europ\u00e9ens",
+    "Institutions europ\u00e9ennes"
+   ],
+   "justifications": [
+    "Montrer une volont\u00e9 de changement (Renzi) et clarifier la position allemande (Schauble)"
+   ],
+   "moyens": [
+    "D\u00e9clarations publiques et interviews"
+   ],
+   "opposants": [
+    "Giorgia Meloni"
+   ],
+   "temporalite": "Pr\u00e9sent"
+  }
+ ]
+}
