@@ -16,7 +16,6 @@ class Action(BaseModel):
     justifications: List[str]
     moyens: List[str]
     opposants: List[str]
-    temporalite: str
 
 class Resultat(BaseModel):
     raisonnement: str
@@ -35,7 +34,6 @@ class Reasoning:
                 "justifications": action.justifications,
                 "moyens": action.moyens,
                 "opposants": action.opposants,
-                "temporalite": action.temporalite,
             })
 
         return {
