@@ -19,3 +19,37 @@ Ecriture d'un petit script pour tester la méthode d'annotation des récits (él
 ```bash
 $ uv run extract.py <path texte> <path system prompt> <path reason prompt> <path extract prompt>
 ```
+### Premières observations
+
+Les premiers tests avec le script avec des textes pris au hasard dans notre corpus donnait des résultats aléatoire. Les textes trop courts créaient trop de champs vides dans le json ou bien c'était des tweets/ faits très ponctuels donc pas le plus pertinent pour l'extraction de métarecit.
+
+Nous avons donc décidé de garder manuellement les textes les plus longs et pertinents. Nous avons sélectionné et lu 10 textes qui nous paraissait intéressant à extraire, principalement des discours ou des déclarations. Globalement, l'extraction fonctionne plutôt bien. Il y avait cependant des petit soucis avec la langue. Les textes sont en italien et l'extraction est demandé au LLM en fr, du coup parfois le json est en français parfois en italien, parfois un peu des deux et le plus drôle c'est parfois du français italianisé. Des mots français écrits à l'italienne (ex: journée qui donne giornée)
+
+Ainsi la question de l'amélioration du prompt se pose. Faut-il n'exiger que du français pour uniformiser l'extraction? De même concernant le corpus et sa pertinence. Faut-il le resteindre à seulement les textes les plus longs?
+
+Avant cela, nous avons aussi fait une comparaison des résultats avec le prompt original (sans aspect temporel) et avec l'ajout de la notion de temps dans lequel s'ancre le texte. Les json générés avec le prompt sans l'aspect temps ont des raisonnements plus détaillés qui résument davantage le texte alors que lorsque l'on passe le même texte mais cette fois-ci avec le prompt de temps, le raisonnement est plus synthétique. Le LLM dit sur quoi il se base pour faire l'analyse mais il ne parle directement du contenu du texte. On dirait qu'il répète juste le prompt. Aussi, la longueur du json varie en fonction de la run. En gros des fois on se retrouve avec plusieurs descriptions (donc plus de détail sur le texte mais c'est pas le cas pour tous et ça a l'air assez aléatoire).
+
+Un autre aspect à améliorer serait du coup de voir comment améliorer le prompt pour intégrer la notion de temps sans affecter les autres catégories.
+
+maintenant, on a réduit le corpus aux 800 textes les plus longs, et voici quelques statistiques descriptives du corpus.
+
+D'après les 50 mots les plus fréquents :
+
+- **Sécurité et ordre public** : fréquence élevée de *sicurezza, difesa, forze, ordine, vittime, emergenza* => discours centré sur protection, lutte contre les risques et maintien de l’ordre.
+- **Économie et entreprises** : présence de *imprese, aziende, lavoratori, economia, risorse, settore, crisi* => soutien aux entreprises et à l’emploi.
+- **Identité nationale et territoire** : *nazione, cittadini, territorio, comuni, famiglie* => cohésion nationale, collectivités locales et structures sociales de base.
+- **Europe et relations européennes** : *europa, europea, europeo, euro* => thème de l'union européenne récurrent.
+- **Solidarité et soutien social** : *sostegno, solidarietà, tutela, libertà*
+- **Thèmes sectoriels spécifiques** : *turismo, gestione, attività*
+- **Références politiques externes** : *sinistra, lega, m5s, conte, lollobrigida* => allusions fréquentes aux autres acteurs du paysage politique.
+
+![Wordcloud des mots les + communs](Figure_1.png)
+
+C'était assez prévisible mais du coup les sujets dominants concernent la sécurité, l’économie, l’identité nationale, les enjeux européens et le soutien social, avec des références régulières aux adversaires politiques.
+
+Pour avoir ces infos nous avons choisi de supprimmer les stopwords italiens standards avec spacy afin d'éviter que les stats soient dominées par des mots purement grammaticaux. On a rajouter manuellement des termes propres au contexte politique du dataset (ex. *meloni, fratelli, fdi, giorgia, centrodestra, partito*). Car ces mots apparaissent mécaniquement dans tous les textes ccomme ils proviennent d’un même acteur politique donc ils n’informent pas sur les thèmes. Pareillement on a retiré des mots liés à tout ce qui es institutionnelle, thème trop génral et évident vu la nature du corpus. On veut éviter que les fréquences reflètent seulement la structure des communiqués politiques plutôt que leur contenu thématique.
+
+
+
+
+

@@ -1,0 +1,19 @@
+government,prime_minister,start_date,end_date,speech_url_or_search
+All governments list,Senato/Governo,1943,today,https://www.senato.it/legislature/repubblica/governi-della-repubblica
+All governments list,Governo.it,1943,today,https://www.governo.it/it/i-governi-dal-1943-ad-oggi/191
+Meloni (Governo Meloni),Giorgia Meloni,2022-10-22,2025-11-10,https://www.repubblica.it/politica/2022/10/25/news/discorso_integrale_meloni_camera_fiducia-371646980/
+Draghi (Governo Draghi),Mario Draghi,2021-02-13,2022-10-22,https://www.repubblica.it/politica/2021/02/17/news/fiducia_governo_draghi_discorso_integrale-287965484/
+Conte II (Governo Conte II),Giuseppe Conte,2019-09-05,2021-02-13,https://www.anaao.it/public/aaa_1781613_discorso_fiducia_camera_conte.pdf
+Conte I (Governo Conte I),Giuseppe Conte,2018-06-01,2019-08-20,https://www.repubblica.it/politica/2019/08/29/news/il_discorso_integrale_di_giuseppe_conte_al_quirinale-234617686/
+Gentiloni (Governo Gentiloni),Paolo Gentiloni,2016-12-12,2018-06-01,https://www.quirinale.it/allegati_statici/20161207/dichiarazione_gentiloni.pdf
+Renzi (Governo Renzi),Matteo Renzi,2014-02-22,2016-12-12,https://www.ilpost.it/2014/02/24/testo-discorso-renzi-senato/
+Letta (Governo Letta),Enrico Letta,2013-04-28,2014-02-22,https://www.repubblica.it/politica/2013/10/02/news/letta_il_discorso_della_fiducia_testo_integrale-67722733/
+Monti (Governo Monti),Mario Monti,2011-11-16,2013-04-28,site:camera.it "dichiarazione di politica generale" "Mario Monti"
+Berlusconi IV (Governo Berlusconi IV),Silvio Berlusconi,2008-05-08,2011-11-16,site:camera.it "discorso per la fiducia" "Silvio Berlusconi" 2008
+Prodi II (Governo Prodi II),Romano Prodi,2006-05-17,2008-05-08,site:camera.it "dichiarazione di politica generale" "Romano Prodi" 2006
+Berlusconi III (Governo Berlusconi III),Silvio Berlusconi,2001-06-10,2006-05-17,site:camera.it "dichiarazione di politica generale" "Silvio Berlusconi" 2001
+Amato II (Governo Amato II),Giuliano Amato,2000-04-25,2001-06-10,site:camera.it "dichiarazione di politica generale" "Giuliano Amato" 2000
+D'Alema (Governo D'Alema),Massimo D'Alema,1998-10-21,2000-04-25,site:camera.it "dichiarazione di politica generale" "Massimo D'Alema" 1998
+Prodi I (Governo Prodi I),Romano Prodi,1996-05-17,1998-10-21,site:camera.it "dichiarazione di politica generale" "Romano Prodi" 1996
+Rutte placeholder,Placeholder,1948,1993,site:camera.it "dichiarazione di politica generale" "Presidente del Consiglio" "anni 1948..1993"
+Historic governments (1948-1993),Various,1948,1993,Use the Senato/CAMERA archives search: https://www.senato.it/ and https://documenti.camera.it/ - search for "dichiarazione di politica generale" + prime minister name/year
