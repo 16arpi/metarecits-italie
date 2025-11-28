@@ -15,7 +15,7 @@ custom_stopwords = {"italia", "italiani", "italiano", "italiana","fratelli", "fd
 
 all_stopwords = stopwords | custom_stopwords
 
-df = pd.read_csv("metarecits-italie/extract/textes/corpus_reduit/corpus_reduit.csv")
+df = pd.read_csv("../extract/textes/corpus_reduit/corpus_reduit.csv")
 
 def tokeniser(text):
     tokens = re.findall(r"\b\w+\b", str(text).lower())

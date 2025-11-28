@@ -31,9 +31,9 @@ Avant cela, nous avons aussi fait une comparaison des résultats avec le prompt 
 
 Un autre aspect à améliorer serait du coup de voir comment améliorer le prompt pour intégrer la notion de temps sans affecter les autres catégories.
 
-maintenant, on a réduit le corpus aux 800 textes les plus longs, et voici quelques statistiques descriptives du corpus.
+#### statistiques descriptives
 
-D'après les 50 mots les plus fréquents :
+D'après les 50 mots les plus fréquents, nous pouvons dire que :
 
 - **Sécurité et ordre public** : fréquence élevée de *sicurezza, difesa, forze, ordine, vittime, emergenza* => discours centré sur protection, lutte contre les risques et maintien de l’ordre.
 - **Économie et entreprises** : présence de *imprese, aziende, lavoratori, economia, risorse, settore, crisi* => soutien aux entreprises et à l’emploi.
@@ -49,6 +49,13 @@ C'était assez prévisible mais du coup les sujets dominants concernent la sécu
 
 Pour avoir ces infos nous avons choisi de supprimmer les stopwords italiens standards avec spacy afin d'éviter que les stats soient dominées par des mots purement grammaticaux. On a rajouter manuellement des termes propres au contexte politique du dataset (ex. *meloni, fratelli, fdi, giorgia, centrodestra, partito*). Car ces mots apparaissent mécaniquement dans tous les textes ccomme ils proviennent d’un même acteur politique donc ils n’informent pas sur les thèmes. Pareillement on a retiré des mots liés à tout ce qui es institutionnelle, thème trop génral et évident vu la nature du corpus. On veut éviter que les fréquences reflètent seulement la structure des communiqués politiques plutôt que leur contenu thématique.
 
+#### clustering des textes pré-traitement
+
+Un clustering K-Means a été appliqué en testant plusieurs valeurs de k entre 2 et 10, et la qualité de chaque partition a été évaluée à l’aide du score de silhouette, qui est resté faible, ce qui est attendu pour un corpus homogène.
+
+L’analyse des mots les plus représentatifs de chaque cluster permet d’identifier neuf grands ensembles thématiques. Le premier regroupe les textes consacrés à l’immigration, aux arrivées par la mer et aux relations avec l’Union européenne. Le deuxième concerne la sécurité intérieure, l’ordre public et les positions vis-à-vis des autres partis. Le troisième rassemble les contenus liés à Giovanni Donzelli et aux polémiques autour de la liberté d’expression. Un quatrième cluster porte sur l’économie, les entreprises, la fiscalité et les mesures sociales. Un cinquième se concentre sur Rome, ses institutions locales, ses élus et les enjeux propres à la capitale. Le sixième renvoie aux questions agricoles, à l’environnement et aux prises de position des eurodéputés du parti. Un septième regroupe les textes liés au tourisme, aux campagnes régionales, aux médias et aux coalitions politiques. Le huitième correspond aux sujets de défense, aux forces armées et aux interventions spécifiques en Sardaigne. Enfin, le neuvième réunit les textes consacrés à la santé, au COVID, aux personnels médicaux et aux ressources allouées au secteur sanitaire.
+
+![résultats des clusters](cluster_k.png)
 
 
 
